@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/image_share_test/static/css/main.073c9b0a.css",
-    "main.js": "/image_share_test/static/js/main.edd62650.js",
+    "main.css": "/image_share_test/static/css/main.e6c13ad2.css",
+    "main.js": "/image_share_test/static/js/main.af429e13.js",
     "static/js/787.3347f086.chunk.js": "/image_share_test/static/js/787.3347f086.chunk.js",
-    "static/media/logo.svg": "/image_share_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/selectPaperAirplanePink.png": "/image_share_test/static/media/selectPaperAirplanePink.0ad33a29be0ab188ef0e.png",
+    "static/media/selectPaperAirplaneRed.png": "/image_share_test/static/media/selectPaperAirplaneRed.4312f121876da08eadfe.png",
+    "static/media/selectPaperAirplaneYellowGreen.png": "/image_share_test/static/media/selectPaperAirplaneYellowGreen.a77260df39c04f372561.png",
+    "static/media/selectPaperAirplaneOrange.png": "/image_share_test/static/media/selectPaperAirplaneOrange.668599ac6cadcc1944e8.png",
+    "static/media/selectPaperAirplaneBeige.png": "/image_share_test/static/media/selectPaperAirplaneBeige.7adc906cb437858ea90c.png",
+    "static/media/selectPaperAirplaneGreen.png": "/image_share_test/static/media/selectPaperAirplaneGreen.660165c0f2c4ee37def1.png",
+    "static/media/selectPaperAirplanePurple.png": "/image_share_test/static/media/selectPaperAirplanePurple.68b8422e61a2276dce19.png",
+    "static/media/selectPaperAirplaneSky.png": "/image_share_test/static/media/selectPaperAirplaneSky.30162401d0a264fd3045.png",
+    "static/media/certificatePaperAirplanePink.png": "/image_share_test/static/media/certificatePaperAirplanePink.2804b06a4df8c558426a.png",
+    "static/media/certificatePaperAirplaneYellowGreen.png": "/image_share_test/static/media/certificatePaperAirplaneYellowGreen.c8bcba7cac99e0bae836.png",
+    "static/media/certificatePaperAirplaneRed.png": "/image_share_test/static/media/certificatePaperAirplaneRed.5fb4fc1317be4d75d2ab.png",
+    "static/media/certificatePaperAirplaneOrange.png": "/image_share_test/static/media/certificatePaperAirplaneOrange.809742f2226a229132ac.png",
+    "static/media/certificatePaperAirplaneBeige.png": "/image_share_test/static/media/certificatePaperAirplaneBeige.df5b4634186afaae2194.png",
+    "static/media/certificatePaperAirplaneGreen.png": "/image_share_test/static/media/certificatePaperAirplaneGreen.4965c87880ccc00638a1.png",
+    "static/media/certificatePaperAirplanePurple.png": "/image_share_test/static/media/certificatePaperAirplanePurple.6ce1e1d84280a171da48.png",
+    "static/media/certificatePaperAirplaneSky.png": "/image_share_test/static/media/certificatePaperAirplaneSky.574d2b2b384d39f04694.png",
     "index.html": "/image_share_test/index.html",
-    "main.073c9b0a.css.map": "/image_share_test/static/css/main.073c9b0a.css.map",
-    "main.edd62650.js.map": "/image_share_test/static/js/main.edd62650.js.map",
+    "main.e6c13ad2.css.map": "/image_share_test/static/css/main.e6c13ad2.css.map",
+    "main.af429e13.js.map": "/image_share_test/static/js/main.af429e13.js.map",
     "787.3347f086.chunk.js.map": "/image_share_test/static/js/787.3347f086.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.edd62650.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.af429e13.js"
   ]
 }
